@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:stately-concurrency-iosarm64:klib:1.1.10" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-concurrency-iosarm64/1.1.10/172b83475d5faada6d5c3ce287cb841a094ff5aa/stately-concurrency.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-concurrency-iosarm64/1.1.10/7310203b903291d93e401f148ccc341fd822c2d8/stately-concurrency-iosarm64-1.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

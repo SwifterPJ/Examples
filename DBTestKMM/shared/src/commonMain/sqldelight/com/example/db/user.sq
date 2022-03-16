@@ -1,0 +1,17 @@
+CREATE TABLE user (
+    UUID TEXT PRIMARY KEY,
+    firstName TEXT,
+    lastName TEXT
+);
+
+insert:
+INSERT INTO user VALUES ?;
+
+update:
+INSERT OR REPLACE INTO user VALUES ?;
+
+getAll:
+SELECT * FROM user;
+
+deleteAll:
+DELETE FROM user;

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:stately-common-iosarm64:klib:1.1.10" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-common-iosarm64/1.1.10/4976d9b8ba9b1b10ec3cb8432887ff3061d60b61/stately-common.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/stately-common-iosarm64/1.1.10/b570b87ed8d64323cea3dc769f206034d404ed18/stately-common-iosarm64-1.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

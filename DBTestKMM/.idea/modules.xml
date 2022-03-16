@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBTestKMM.iml" filepath="$PROJECT_DIR$/.idea/modules/DBTestKMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/DBTestKMM.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/DBTestKMM.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidTestFixtures.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidTestFixtures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidTestFixturesDebug.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidTestFixturesDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidTestFixturesRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.androidTestFixturesRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/DBTestKMM.shared.iosX64Test.iml" />
+    </modules>
+  </component>
+</project>

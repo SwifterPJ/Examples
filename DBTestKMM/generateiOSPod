@@ -1,0 +1,2 @@
+./gradlew :shared:generateSqlDelightInterface
+./gradlew :shared:podInstall
